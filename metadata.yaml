@@ -1,0 +1,35 @@
+_repo: Faust--Der-Trag-die-zweiter-Teil_2230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: "Preceded by Part 1 PG#2229\r\nCf. English Wikipedia: http://en.wikipedia.org/wiki/Faust,_Part_2\r\
+  \nCf. German Wikipedia: http://de.wikipedia.org/wiki/Faust_II"
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- DE Drama
+gutenberg_issued: '2000-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2230'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcsh 'Legends -- Germany -- Drama'
+- !lcsh 'German poetry'
+- !lcsh 'Magicians -- Drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Faust: Der Tragödie zweiter Teil'
+url: http://www.gutenberg.org/ebooks/2230
