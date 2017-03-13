@@ -1,5 +1,8 @@
 _repo: Faust--Der-Trag-die-zweiter-Teil_2230
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: "Preceded by Part 1 PG#2229\r\nCf. English Wikipedia: http://en.wikipedia.org/wiki/Faust,_Part_2\r\
   \nCf. German Wikipedia: http://de.wikipedia.org/wiki/Faust_II"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2230#Faust--Der-Trag-die-zweiter-Teil
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - DE Drama
